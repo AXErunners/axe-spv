@@ -1,7 +1,7 @@
 {
   "name": "@axerunners/axe-spv",
-  "version": "1.0.3",
   "description": "Temporary repo",
+  "version": "1.0.4",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/ --no-timeouts --recursive",
